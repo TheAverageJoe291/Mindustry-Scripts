@@ -9,15 +9,15 @@ echo Unzipping Mindustry...
 unzip mindustry-linux-64-bit-stable.zip
 echo Unzipped!
 sleep 3
-echo renaming Folder form "[Linux-64bit][v104.10]Mindustry" to "mindustry"...
-mv "[Linux-64bit][v104.10]Mindustry" "mindustry-linux-64-bit-stable"
+echo renaming Folder from "[Linux-64bit][v104.10]Mindustry" to "mindustry"...
+mv "[Linux-64bit][v104.10]Mindustry" "mindustry"
 echo Rename complete...
 echo Moving files to desktop...
-mv mindustry ~/Desktop
+cp -R ~/Downloads/mindustry ~/Desktop
 echo Deleting Folders/Files from Downloads Folder...
 rm ~/Downloads/mindustry-linux-64-bit-stable.zip
 rm  -r ~/Downloads/mindustry
 echo Downloaded files deleted! Have fun!~
 echo Also, Mindustry is in the Mindustry
 sleep 5
-rm Mindustry-scripts
+rm - RMindustry-scripts
