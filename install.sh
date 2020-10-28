@@ -1,7 +1,10 @@
 cd ~
 cd Downloads
-wget "https://drive.google.com/u/0/uc?id=1lE_qzJbnR56Pk83gZH066Oq28b6_xNq3&export=download" -O "mindustry-linux-64-bit-stable.zip"
-sleep 3
+echo Please go to https://drive.google.com/u/0/uc?id=1lE_qzJbnR56Pk83gZH066Oq28b6_xNq3&export=download and download the .zip file, or download the game from anuke.itch.io/Mindustry
+echo It's going to say it can't check for viruses with the drive link, if you feel uneasy, use the other link from the game's author, both are safe.
+It's jsut personally easier to do the drive link...
+echo Anyways! Once downloaded, please continue...
+read -n1 -r -p "Press any key to continue..." key
 echo Unzipping Mindustry...
 unzip mindustry-linux-64-bit-stable.zip
 echo Unzipped!
