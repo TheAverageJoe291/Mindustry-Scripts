@@ -13,7 +13,7 @@ echo Moving files to desktop...
 mv mindustry-linux-64-bit-stable.zip ~/Desktop
 echo Deleting Folders/Files from Downloads Folder...
 rm mindustry-linux-64-bit-stable.zip
-rm mindustry-linux-64-bit-stable
+rm  -r mindustry-linux-64-bit-stable
 echo Downloaded files deleted! Have fun!~
 echo echo Also, Mindustry is in the Mindustry
 sleep 15
