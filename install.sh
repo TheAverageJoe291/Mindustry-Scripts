@@ -19,4 +19,5 @@ rm ~/Downloads/mindustry-linux-64-bit-stable.zip
 rm  -r ~/Downloads/mindustry-linux-64-bit-stable
 echo Downloaded files deleted! Have fun!~
 echo Also, Mindustry is in the Mindustry
-sleep 15
+sleep 5
+rm Mindustry-install-script
