@@ -11,8 +11,8 @@ Information on how/what it does is below.
 Information on what the script does!
 
 It should do...
-1. Go to Downloads folder...
-2. Downloads the game from Google Drive (Don't know how to download from itch.io)...
+1. Go to Downloads folder
+2. Requires a manual downlaod of MMindustry from either the provided Google Drive link or form the official website.
 3. Unzips game
 4. Renames folder
 5. Moves game to Desktop in its own folder
