@@ -7,7 +7,6 @@ read -n1 -r -p "Press any key to continue..." key
 unzip "mindustry-linux-64-bit-stable.zip"
 sleep 3
 mv "[Linux-64bit][v104.10]Mindustry" "mindustry"
-cd ~/Downloads
 mv "mindustry" "~/Desktop"
 rm  -R "~/Downloads/mindustry"
 echo "Mindustry is in the Mindustry folder"
